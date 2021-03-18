@@ -1,0 +1,13 @@
+footer{
+    
+    font-size: 1.6rem;
+    line-height: 27px;
+    min-height: 50px;
+    letter-spacing: 15px;
+    text-align: center;
+    padding-top: 20px;
+    border-top: #eeeeee;
+    /*border: 1px solid #ccc;*/
+    z-index: 10;
+    box-shadow: 1px 1px 5px #ccc;
+}
