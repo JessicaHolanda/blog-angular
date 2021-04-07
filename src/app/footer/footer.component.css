@@ -1,13 +1,30 @@
-footer{
-    
-    font-size: 1.6rem;
-    line-height: 27px;
-    min-height: 50px;
-    letter-spacing: 15px;
-    text-align: center;
-    padding-top: 20px;
-    border-top: #eeeeee;
-    /*border: 1px solid #ccc;*/
-    z-index: 10;
-    box-shadow: 1px 1px 5px #ccc;
+ul.social-network {
+  list-style: none;
+  display: inline;
+
+  padding: 0;
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0;
+  padding: 5px;
+}
+
+.fa{
+  font-size: 35pt;
+  color: white;
+  padding: 10px;
+}
+
+.fa-facebook-square:hover{
+  color: #3b5998;
+}
+
+.fa-linkedin-square:hover{
+color: #0072b1;
+}
+
+.fa-instagram:hover{
+color: #C13584;
 }
